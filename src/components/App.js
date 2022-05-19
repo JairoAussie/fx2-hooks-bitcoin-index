@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import CurrencySelector from './CurrencySelector'
-import DisplayData from './DisplayData2'
+import DisplayData from './DisplayData'
 import { AppContainer, Heading } from './StyledComponents'
 
 const App = () => {
